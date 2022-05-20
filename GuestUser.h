@@ -1,10 +1,10 @@
 // IT21355196 K.L.Shashin Kalpajith
 // MLB_07.02_11
-// User class
+// GuestUser class
 #include<iostream>
 #include<cstring>
 using namespace std;
-class User
+class GuestUser
 {
   protected:
     string userID;
